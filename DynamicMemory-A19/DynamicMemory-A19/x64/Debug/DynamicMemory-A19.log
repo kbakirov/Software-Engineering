@@ -1,0 +1,13 @@
+﻿  functions.c
+C:\Users\CODD-ROOM\source\repos\DynamicMemory-A19\DynamicMemory-A19\functions.c(31,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : see declaration of 'scanf'
+C:\Users\CODD-ROOM\source\repos\DynamicMemory-A19\DynamicMemory-A19\functions.c(42,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : see declaration of 'scanf'
+C:\Users\CODD-ROOM\source\repos\DynamicMemory-A19\DynamicMemory-A19\functions.c(64,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  main.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : see declaration of 'scanf'
+C:\Users\CODD-ROOM\source\repos\DynamicMemory-A19\DynamicMemory-A19\main.c(16,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : see declaration of 'scanf'
+  Generating Code...
+C:\Users\CODD-ROOM\source\repos\DynamicMemory-A19\DynamicMemory-A19\main.c(11,10): warning C4101: 'pDynamicDoubleVectorB': unreferenced local variable
+  DynamicMemory-A19.vcxproj -> C:\Users\CODD-ROOM\source\repos\DynamicMemory-A19\x64\Debug\DynamicMemory-A19.exe

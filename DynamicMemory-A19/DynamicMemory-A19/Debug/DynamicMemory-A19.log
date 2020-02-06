@@ -1,0 +1,11 @@
+﻿  main.c
+C:\Users\CODD-ROOM\source\repos\DynamicMemory-A19\DynamicMemory-A19\main.c(24,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'double (*)[2]'
+C:\Users\CODD-ROOM\source\repos\DynamicMemory-A19\DynamicMemory-A19\main.c(27,10): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'double *'
+C:\Users\CODD-ROOM\source\repos\DynamicMemory-A19\DynamicMemory-A19\main.c(34,11): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'double *'
+C:\Users\CODD-ROOM\source\repos\DynamicMemory-A19\DynamicMemory-A19\main.c(60,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'double **'
+C:\Users\CODD-ROOM\source\repos\DynamicMemory-A19\DynamicMemory-A19\main.c(63,10): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'double *'
+C:\Users\CODD-ROOM\source\repos\DynamicMemory-A19\DynamicMemory-A19\main.c(71,11): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'double *'
+C:\Users\CODD-ROOM\source\repos\DynamicMemory-A19\DynamicMemory-A19\main.c(87,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : see declaration of 'scanf'
+C:\Users\CODD-ROOM\source\repos\DynamicMemory-A19\DynamicMemory-A19\main.c(121,1): warning C4133: 'initializing': incompatible types - from 'double *' to 'int *'
+  DynamicMemory-A19.vcxproj -> C:\Users\CODD-ROOM\source\repos\DynamicMemory-A19\Debug\DynamicMemory-A19.exe
